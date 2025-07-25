@@ -21,6 +21,8 @@ Perfect for personal use, web apps, or educational projects!
 
 
 ---
+🔗 [View Calendar 2025 Demo](https://satyasaadhika.github.io/dynamic-2025-calendar/)
+---
 
 ## 📂 Folder Structure
 
@@ -30,3 +32,4 @@ Perfect for personal use, web apps, or educational projects!
 ├── style.css
 ├── script.js
 └── README.md
+
